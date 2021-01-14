@@ -11,3 +11,8 @@ h1{
    color: crimson;
    font-size: 16px;
 }
+link{
+    color: darkblue;
+    text-decoration: darkcyan;
+    align-self: hover;
+}
