@@ -3,9 +3,11 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
-    row-gap: 1.2;
+    row-gap: 84;
 
 }
 h1{
-    
+   border-bottom: 2px; 
+   color: crimson;
+   font-size: 16px;
 }
