@@ -12,9 +12,10 @@ h1{
    font-size: 16px;
 }
 a:hover{
-color: darkcyan;
-text-decoration: darkslateblue;
+color: rgb(68, 0, 255);
+text-decoration: rgb(0, 10, 102);
 }
 p{
-    row-gap: 5px;
+    font-size: 14px;
+    row-gap: 1.3;
 }
