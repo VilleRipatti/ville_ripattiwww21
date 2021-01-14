@@ -3,7 +3,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
-    row-gap: 84;
+  
 
 }
 h1{
@@ -11,8 +11,10 @@ h1{
    color: crimson;
    font-size: 16px;
 }
-link{
-    color: darkblue;
-    text-decoration: darkcyan;
-    align-self: hover;
+a:hover{
+color: darkcyan;
+text-decoration: darkslateblue;
+}
+p{
+    row-gap: 5px;
 }
